@@ -1,4 +1,4 @@
-# Integuru v0
+# Integuru v0 x RPG
 
 First version of the AI agent that generates integration code by reverse-engineering platforms' internal APIs.
 
